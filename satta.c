@@ -1,3 +1,5 @@
+////onnnly  useful  for 2 time  for  unnnlimited  cheak sataaaa.c
+
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
